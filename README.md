@@ -79,32 +79,31 @@ Below are real outputs captured from the running system. These screenshots show 
 ### Application Running (Home Endpoint)
 This confirms that the service is accessible.
 
-![Application Home](<img width="1920" height="1020" alt="localhost_8080 - Google Chrome 16-02-2026 11_01_55" src="https://github.com/user-attachments/assets/2bb9c2ff-6b41-4044-8e03-dce8cda9aa16" />
-)
+<img width="1920" height="1020" alt="localhost_8080 - Google Chrome 16-02-2026 11_01_55" src="https://github.com/user-attachments/assets/8c598174-a380-42c1-9740-420a6ef38817" />
 
 ---
 
 ### Health Check Endpoint
 Used by Kubernetes readiness and liveness probes.
 
-![Health Endpoint](<img width="1920" height="1020" alt="localhost_8080_health - Google Chrome 16-02-2026 11_11_44" src="https://github.com/user-attachments/assets/069a1841-835e-4dfd-b946-e3b6691a7624" />
-)
+<img width="1920" height="1020" alt="localhost_8080_health - Google Chrome 16-02-2026 11_11_44" src="https://github.com/user-attachments/assets/f937e4c6-d16d-4610-8e1b-618db52f6656" />
+
 
 ---
 
 ### Metrics Endpoint (Prometheus)
 Exposes application and process metrics.
 
-![Metrics Endpoint](<img width="1920" height="1020" alt="localhost_8080_metrics - Google Chrome 16-02-2026 11_13_01" src="https://github.com/user-attachments/assets/e7c6f5da-19d7-449e-b465-579759cf5e1d" />
-)
+<img width="1920" height="1020" alt="localhost_8080_metrics - Google Chrome 16-02-2026 11_13_01" src="https://github.com/user-attachments/assets/46afe296-be7d-47d4-9fd9-fd8e3fe0f6cd" />
+
 
 ---
 
 ### Monitoring Dashboard (Grafana)
 Shows request rate, latency, pod CPU usage, memory usage, and running replicas.
 
-![Grafana Dashboard](<img width="1536" height="1024" alt="ChatGPT Image Feb 16, 2026, 05_58_33 PM" src="https://github.com/user-attachments/assets/9c68c4c5-d9f0-43fc-be0a-5ef76183c202" />
-)
+<img width="1536" height="1024" alt="ChatGPT Image Feb 16, 2026, 05_58_33 PM" src="https://github.com/user-attachments/assets/8b95bcb1-4a9f-45b8-9a9c-b34106f08e95" />
+
 
 ---
 

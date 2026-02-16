@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: sample-flask
+  namespace: devops-demo
+  labels:
+    app: sample-flask
+spec:
+  selector:
+    app: sample-flask
+  ports:
+    - name: http
+      port: 80
+      targetPort: 5000
+  type: ClusterIP

@@ -94,7 +94,8 @@ Used by Kubernetes readiness and liveness probes.
 ### Metrics Endpoint (Prometheus)
 Exposes application and process metrics.
 
-<img width="1920" height="1020" alt="localhost_8080_metrics - Google Chrome 16-02-2026 11_13_01" src="https://github.com/user-attachments/assets/46afe296-be7d-47d4-9fd9-fd8e3fe0f6cd" />
+<img width="1920" height="967" alt="localhost_8080_metrics - Google Chrome 16-02-2026 11_13_01" src="https://github.com/user-attachments/assets/30e5fb59-25af-4d04-8ef0-8d4a53b2601e" />
+
 
 
 ---
